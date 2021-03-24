@@ -1,3 +1,7 @@
+---
+title: Olivier Bronchain
+---
+
 ## Welcome to Olivier Bronchain's website
 
 ### Biography
