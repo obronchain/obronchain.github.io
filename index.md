@@ -14,3 +14,8 @@ One of my main contributions is the application of this methodology to one imple
 
 ## New secure designs
 The second part is dedicated to the design of cryptography implementation. Among others, I have been implementing cryptography for embedded software, FPGA designs and I have been part of the [Spook](https://www.spook.dev/) team for the lightweight cryptography competition organized by the American “National Institute of Standards and Technology”.
+
+# Social media
+- [Google Scholar](https://scholar.google.com/citations?user=uOkNHaIAAAAJ&hl=en)
+- [Twitter](https://twitter.com/BronchainO)
+- [DBLP] (https://dblp.uni-trier.de/pid/227/9029.html)
