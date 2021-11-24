@@ -18,4 +18,4 @@ The second part is dedicated to the design of cryptography implementation. Among
 # Social media
 - [Google Scholar](https://scholar.google.com/citations?user=uOkNHaIAAAAJ&hl=en)
 - [Twitter](https://twitter.com/BronchainO)
-- [DBLP] (https://dblp.uni-trier.de/pid/227/9029.html)
+- [DBLP](https://dblp.uni-trier.de/pid/227/9029.html)
