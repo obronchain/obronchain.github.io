@@ -1,7 +1,7 @@
 ---
 title: Olivier Bronchain
 ---
-
+[DBLP](https://dblp.uni-trier.de/pid/227/9029.html) [Twitter](https://twitter.com/BronchainO) [Google Scholar](https://scholar.google.com/citations?user=uOkNHaIAAAAJ&hl=en) [GitHub](https://github.com/obronchain)
 # Biography
 
 Since 2017, I have been working as a PhD researcher in the Cryptography Research Group at UCLouvain, Belgium under the supervision of Professor [F.-X. Standaert](https://perso.uclouvain.be/fstandae/). My research was funded by an European Research Council grant who employed more than 10 top international  researchers. 
@@ -14,8 +14,3 @@ One of my main contributions is the application of this methodology to one imple
 
 ## New secure designs
 The second part is dedicated to the design of cryptography implementation. Among others, I have been implementing cryptography for embedded software, FPGA designs and I have been part of the [Spook](https://www.spook.dev/) team for the lightweight cryptography competition organized by the American “National Institute of Standards and Technology”.
-
-# Social media
-- [Google Scholar](https://scholar.google.com/citations?user=uOkNHaIAAAAJ&hl=en)
-- [Twitter](https://twitter.com/BronchainO)
-- [DBLP](https://dblp.uni-trier.de/pid/227/9029.html)
