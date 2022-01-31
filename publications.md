@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-O. Bronchain, "Worst-case side-channel security: from evaluation of countermeasures to new designs", PhD dissertation, [thesis](papers/thesis.pdf) [slides](slides/thesis_public.pdf).
+O. Bronchain, "Worst-case side-channel security: from evaluation of countermeasures to new designs", PhD dissertation, [thesis](papers/thesis.pdf),[slides](slides/thesis_public.pdf).
 
 **Unpublished works:**
 
