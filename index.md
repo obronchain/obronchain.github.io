@@ -6,9 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Biography
 ---
 
-# Biography
 
 Since 2017, I have been working as a researcher in the Cryptography
 Research Group at UCLouvain, Belgium under the supervision of Professor [F.-X.
