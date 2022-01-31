@@ -4,7 +4,7 @@ author:
   email: olivier.bronchain@uclouvain.be
 description: > # this means to ignore newlines until "show_excerpts:"
     Olivier Bronchain is a Post-doctoral researcher at UCLouvain, Belgium.  He
-    is working on securing cryptography implementation for embedded systems.
+    is working on securing cryptography implementations for embedded systems.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -17,6 +17,7 @@ minima:
   social_links:
     twitter: BronchainO
     github:  obronchain
+    scholar: obronchain
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll

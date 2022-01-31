@@ -1,4 +1,5 @@
 {%- assign social = site.minima.social_links -%}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 <ul class="social-media-list">
   {%- for glb in social.gitlab -%}{%- if glb.username and glb.instance -%}<li><a rel="me" href="https://{{ glb.instance | cgi_escape | escape}}/{{glb.username}}" target="_blank" title="{{ glb.username | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#gitlab' | relative_url }}"></use></svg></a></li>{%- endif -%}{%- endfor -%}
@@ -18,4 +19,6 @@
   {%- if social.keybase -%}<li><a rel="me" href="https://keybase.io/{{ social.keybase | cgi_escape | escape }}" target="_blank" title="{{ social.keybase | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#keybase' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.microdotblog -%}<li><a rel="me" href="https://micro.blog/{{ social.microdotblog | cgi_escape | escape }}" target="_blank" title="{{ social.microdotblog | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#microdotblog' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.devto -%}<li><a href="https://dev.to/{{ social.devto | cgi_escape | escape }}" target="_blank" title="{{ social.devto | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#devto' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if social.scholar -%}<li><a rel="me" href="https://scholar.google.com/citations?user=uOkNHaIAAAAJ&hl=en" target="_blank" title="{{ social.scholar | escape }}"><i class="ai ai-google-scholar-square ai-3x"></i></a></li>{%- endif -%}
 </ul>
+
