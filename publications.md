@@ -4,13 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
+O. Bronchain, "Worst-case side-channel security: from evaluation of countermeasures to new designs", PhD dissertation, [thesis](papers/thesis.pdf) [slides](slides/thesis_public.pdf).
+
 **Unpublished works:**
 
-1. M. Azouaoui, O. Bronchain, V. Grosso, K. Papagiannopoulos, F.-X. Standaert, "Bitslice Masking and Improved Shuffling: How and When to Mix Them in Software?", [cryptology e-Print archive](https://eprint.iacr.org/2021/951), report 2021/951.
 1. O. Bronchain, G. Cassiers, F.-X. Standaert, "Give Me 5 Minutes: Attacking ASCAD with a Single Side-Channel Trace", [cryptology e-Print archive](https://eprint.iacr.org/2021/817), report 2021/817.
+2. M. Azouaoui, O. Bronchain, C. Hoffmann, Y. Kuzovkova, T. Schneider, F.-X. Standaert, "Systematic Study of Decryption and Re-Encryption Leakage: the Case of Kyber",  [cryptology e-Print archive](https://eprint.iacr.org/2022/036), report 2022/036.
 
 **Publications:**
-
+19. O. Bronchain, F. Durvaux, L. Masure, F.-X. Standaert, Efficient Profiled Side-Channel Analysis of Masked Implementations, Extended, to appear in IEEE Transactions on Information Forensics & Security, vol xx, pp yyy-zzz, [pdf](https://perso.uclouvain.be/fstandae/PUBLIS/274.pdf). 
+18. M. Azouaoui, O. Bronchain, V. Grosso, K. Papagiannopoulos, F.-X. Standaert, "Bitslice Masking and Improved Shuffling: How and When to Mix Them in Software?",in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2022, num 2, pp XXX-XXX, [cryptology e-Print archive](https://eprint.iacr.org/2021/951).
 17. B. Udvarhelyi, O. Bronchain, F.-X. Standaert, "Security Analysis of Deterministic Re-Keying with Masking & Shuffling: Application to ISAP", to appear in the proceedings of COSADE 2021, Lecture Notes in Computer Science, vol xxxx, pp yyy-zzz, Lugano, October 2021, Springer, [pdf](https://perso.uclouvain.be/fstandae/PUBLIS/267.pdf).
 16. O. Bronchain, F.-X. Standaert, "Breaking Masked Implementations with Many Shares on 32-bit Software Platforms or When the Security Order Does Not Matter", in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2021, num 3, pp 202-234, [pdf](https://tches.iacr.org/index.php/TCHES/article/view/8973).
 15. O. Bronchain, C. Momin, T. Peters, F.-X. Standaert, "Improved Leakage-Resistant Authenticated Encryption based on Hardware AES Coprocessors", in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2021, num 3, pp 641-676, [pdf](https://tches.iacr.org/index.php/TCHES/article/view/8988).
