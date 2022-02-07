@@ -7,9 +7,11 @@ permalink: /publications/
 
 **Unpublished works:**
 
-1. O. Bronchain, G. Cassiers, F.-X. Standaert, _"Give Me 5 Minutes: Attacking ASCAD with a Single Side-Channel Trace"_, [cryptology e-Print archive](https://eprint.iacr.org/2021/817), report 2021/817.
-2. M. Azouaoui, O. Bronchain, C. Hoffmann, Y. Kuzovkova, T. Schneider, F.-X. Standaert, _"Systematic Study of Decryption and Re-Encryption Leakage: the Case of Kyber"_,  [cryptology e-Print archive](https://eprint.iacr.org/2022/036), report 2022/036.
+1. O. Bronchain, G. Cassiers, F.-X. Standaert, _"Give Me 5 Minutes: Attacking ASCAD with a Single Side-Channel Trace"_, [eprint](https://eprint.iacr.org/2021/817).
 3. O. Bronchain, _"Worst-case side-channel security: from evaluation of countermeasures to new designs"_, PhD dissertation, [thesis](papers/thesis.pdf),[slides](slides/thesis_public.pdf).
+
+**To appear:**
+1. M. Azouaoui, O. Bronchain, C. Hoffmann, Y. Kuzovkova, T. Schneider, F.-X. Standaert, _"Systematic Study of Decryption and Re-Encryption Leakage: the Case of Kyber"_,  COSADE 2022, [eprint](https://eprint.iacr.org/2022/036).
 
 **Publications:**
 19. O. Bronchain, F. Durvaux, L. Masure, F.-X. Standaert, _"Efficient Profiled Side-Channel Analysis of Masked Implementations, Extended"_, to appear in IEEE Transactions on Information Forensics & Security, vol xx, pp yyy-zzz, [pdf](papers/19.pdf). 
