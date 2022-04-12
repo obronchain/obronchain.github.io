@@ -13,7 +13,7 @@ permalink: /publications/
 **To appear:**
 
 **Publications:**
-21. M. Azouaoui, O. Bronchain, C. Hoffmann, Y. Kuzovkova, T. Schneider, F.-X. Standaert, _"Systematic Study of Decryption and Re-Encryption Leakage: the Case of Kyber"_,  COSADE 2022, [eprint](https://eprint.iacr.org/2022/036), [slides][slides/cosade_2022.pdf].
+21. M. Azouaoui, O. Bronchain, C. Hoffmann, Y. Kuzovkova, T. Schneider, F.-X. Standaert, _"Systematic Study of Decryption and Re-Encryption Leakage: the Case of Kyber"_,  COSADE 2022, [eprint](https://eprint.iacr.org/2022/036), [slides](slides/cosade_2022.pdf).
 20. B. Udvarhelyi, O. Bronchain, F.-X. Standaert, _"Security Analysis of Deterministic Re-Keying with Masking & Shuffling: Application to ISAP"_, to appear in the proceedings of COSADE 2021, Lecture Notes in Computer Science, vol xxxx, pp yyy-zzz, Lugano, October 2021, Springer, [pdf](https://perso.uclouvain.be/fstandae/PUBLIS/267.pdf).
 19. O. Bronchain, _"Worst-case side-channel security: from evaluation of countermeasures to new designs"_, PhD dissertation, [thesis](https://dial.uclouvain.be/pr/boreal/object/boreal:258155),[slides](slides/thesis_public.pdf).
 18. M. Azouaoui, O. Bronchain, V. Grosso, K. Papagiannopoulos, F.-X. Standaert, _"Bitslice Masking and Improved Shuffling: How and When to Mix Them in Software?"_,in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2022, num 2, pp 140-165, [eprint](https://eprint.iacr.org/2021/951), [pdf](https://tches.iacr.org/index.php/TCHES/article/view/9484/9025).
