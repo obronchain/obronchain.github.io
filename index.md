@@ -14,7 +14,7 @@ Since 2017, I have been working as a researcher in the Cryptography
 Research Group at UCLouvain, Belgium under the supervision of Professor [F.-X.
 Standaert](https://perso.uclouvain.be/fstandae/). I received my PhD on January
 2022 which was focusing on the evaluation and implementation of side-channel
-countermeasures. 
+countermeasures. I am now a post-doc in the same research group. 
 
 # PhD Short description
 
