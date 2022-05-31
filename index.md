@@ -25,5 +25,15 @@ resistant against physical attacks.
 ## Side-Channel security evaluations. 
 
 I am interested in the evaluation of open-source implementations resistant
-against side-channel attacks. 
+against side-channel attacks. I contributed to
+[SCALib](https://github.com/simple-crypto/SCALib) which is a library dedicated
+to side-channel analysis with a strong focus on performances and simplicity.
+
+## Software Side-channel protected implementations.
+
+I am also interested in protected implementations against side-channel attacks. 
+Among other, I have been working on the software implementations used in the 
+[CHES 2020 CTF](https://ctf.spook.dev/) and co-authored implementation of 
+`Saber` and `Kyber` masked at arbitrary order. That code has been released with 
+an open-source license [here](https://github.com/uclcrypto/pqm4_masked).
 
