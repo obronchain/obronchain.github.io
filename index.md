@@ -24,5 +24,6 @@ resistant against physical attacks.
 
 ## Side-Channel security evaluations. 
 
-
+I am interested in the evaluation of open-source implementations resistant
+against side-channel attacks. 
 
