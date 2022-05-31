@@ -10,7 +10,6 @@ permalink: /publications/
 1. O. Bronchain, G. Cassiers, F.-X. Standaert, _"Give Me 5 Minutes: Attacking ASCAD with a Single Side-Channel Trace"_, [eprint](https://eprint.iacr.org/2021/817).
 2. O. Bronchain, G. Cassiers, _" Bitslicing Arithmetic/Boolean Masking Conversions for Fun and Profit with Application to Lattice-Based KEMs"_, [eprint](https://eprint.iacr.org/2022/158).
 
-**To appear:**
 
 **Publications:**
 21. M. Azouaoui, O. Bronchain, C. Hoffmann, Y. Kuzovkova, T. Schneider, F.-X. Standaert, _"Systematic Study of Decryption and Re-Encryption Leakage: the Case of Kyber"_,  COSADE 2022, [eprint](https://eprint.iacr.org/2022/036), [slides](slides/cosade_2022.pdf).
