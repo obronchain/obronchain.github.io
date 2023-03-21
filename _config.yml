@@ -1,9 +1,9 @@
 title: Olivier Bronchain
 author:
   name: Olivier Bronchain
-  email: olivier.bronchain@uclouvain.be
+  email: olivier.bronchain@nxp.com
 description: > # this means to ignore newlines until "show_excerpts:"
-    Olivier Bronchain is a Post-doctoral researcher at UCLouvain, Belgium.  He
+    Olivier Bronchain is a cryptographer at NXP Semiconductors, Belgium.  He
     is working on securing cryptography implementations for embedded systems.
 
 show_excerpts: false # set to true to show excerpts on the homepage
