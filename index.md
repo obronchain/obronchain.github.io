@@ -9,11 +9,12 @@ layout: home
 title: Biography
 ---
 
-Since 2017, I have been working as a researcher in the Cryptography
+In 2017, I started to work as a researcher in the Cryptography
 Research Group at UCLouvain, Belgium under the supervision of Professor [F.-X.
 Standaert](https://perso.uclouvain.be/fstandae/). I received my PhD on January
 2022 which was focusing on the evaluation and implementation of side-channel
-countermeasures. I am now a post-doc in the same research group. 
+countermeasures. I am now working at NXP Semiconductors, Belgium, where I am mostly 
+focusing on the deployment of post-quantum cryptography into embedded systems. 
 
 
 I am also a co-founder of the [SIMPLE-crypto](https://www.simple-crypto.dev/)
@@ -22,11 +23,17 @@ resistant against physical attacks.
 
 # Research interest
 
+## Post-Quantum Cryptography.
+I am currently focusing on the challenges related to the deployment of post-quantum 
+cryptography in embedded systems. This includes low-memory implementations as well 
+as side-channel countermeasures dedicated to post-quantum cryptography. As an example, 
+I contributed to masking [CRYSTALS-Kyber](https://eprint.iacr.org/2022/158) and [CRYSTALS-Dilithium](https://eprint.iacr.org/2022/1406), and low-memory [FrodoKEM](https://eprint.iacr.org/2023/158).
+
 ## Side-Channel security evaluations. 
 
 I am interested in the evaluation of open-source implementations resistant
-against side-channel attacks. I contributed to
-[SCALib](https://github.com/simple-crypto/SCALib) which is a library dedicated
+against side-channel attacks, which is the main focus of my [PhD thesis](https://dial.uclouvain.be/pr/boreal/object/boreal:258155).
+I contributed to [SCALib](https://github.com/simple-crypto/SCALib) which is a library dedicated
 to side-channel analysis with a strong focus on performances and simplicity.
 
 ## Software Side-channel protected implementations.
