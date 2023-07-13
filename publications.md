@@ -8,12 +8,14 @@ permalink: /publications/
 **Unpublished works:**
 
 1. O. Bronchain, G. Cassiers, F.-X. Standaert, _"Give Me 5 Minutes: Attacking ASCAD with a Single Side-Channel Trace"_, [eprint](https://eprint.iacr.org/2021/817).
-2. M. Azouaoui, O. Bronchain, G. Cassiers, C. Hoffmann, Y. Kuzovkova, J. Renes, M. Schönauer, T. Schneider, F.-X. Standaert, C. van Vredendaal, _"Leveling Dilithium against Leakage: Revisited Sensitivity Analysis and Improved Implementations"_, [eprint](https://eprint.iacr.org/2022/1406).
  
 **To Appear:**
-1. J. W. Bos, O. Bronchain, F. Custers, J. Renes, D. Verbakel, C. van Vredendall, _"Enabling FrodoKEM on Embedded Devices"_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2023/158).
-
+1. M. Azouaoui, O. Bronchain, G. Cassiers, C. Hoffmann, Y. Kuzovkova, J. Renes, M. Schönauer, T. Schneider, F.-X. Standaert, C. van Vredendaal, _"Protecting Dilithium against Leakage: Revisited Sensitivity Analysis and Improved Implementations"_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2022/1406).
+2. M. Azouaoui, O. Bronchain, J. Renes, M. Schönauer, T. Schneider, O. Seker, C. van Vredendaal, _"From MLWE to RLWE: A Differential Fault Attack on Randomized & Deterministic Dilithium
+"_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2023/1074).
+ 
 **Publications:**
+1. J. W. Bos, O. Bronchain, F. Custers, J. Renes, D. Verbakel, C. van Vredendall, _"Enabling FrodoKEM on Embedded Devices"_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2023/158) [pdf](https://tches.iacr.org/index.php/TCHES/article/view/10957).
 1.  O. Bronchain, G. Cassiers, _" Bitslicing Arithmetic/Boolean Masking Conversions for Fun and Profit with Application to Lattice-Based KEMs"_, in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2022, [eprint](https://eprint.iacr.org/2022/158), [slides](https://iacr.org/submit/files/slides/2022/tches/ches2022/4_60/slides.pdf).
 2.  M. Azouaoui, O. Bronchain, C. Hoffmann, Y. Kuzovkova, T. Schneider, F.-X. Standaert, _"Systematic Study of Decryption and Re-Encryption Leakage: the Case of Kyber"_,  COSADE 2022, [eprint](https://eprint.iacr.org/2022/036), [slides](slides/cosade_2022.pdf).
 3.  B. Udvarhelyi, O. Bronchain, F.-X. Standaert, _"Security Analysis of Deterministic Re-Keying with Masking & Shuffling: Application to ISAP"_, COSADE 2021, Lecture Notes in Computer Science, vol xxxx, pp yyy-zzz, Lugano, October 2021, Springer, [pdf](https://perso.uclouvain.be/fstandae/PUBLIS/267.pdf).
