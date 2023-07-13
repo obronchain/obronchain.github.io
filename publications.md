@@ -11,7 +11,7 @@ permalink: /publications/
  
 **To Appear:**
 1. M. Azouaoui, O. Bronchain, G. Cassiers, C. Hoffmann, Y. Kuzovkova, J. Renes, M. Schönauer, T. Schneider, F.-X. Standaert, C. van Vredendaal, _"Protecting Dilithium against Leakage: Revisited Sensitivity Analysis and Improved Implementations"_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2022/1406).
-2. M. Azouaoui, O. Bronchain, J. Renes, M. Schönauer, T. Schneider, O. Seker, C. van Vredendaal, _"From MLWE to RLWE: A Differential Fault Attack on Randomized & Deterministic Dilithium
+2. M. ElGhamrawy, M. Azouaoui, O. Bronchain, J. Renes, M. Schönauer, T. Schneider, O. Seker, C. van Vredendaal, _"From MLWE to RLWE: A Differential Fault Attack on Randomized & Deterministic Dilithium
 "_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2023/1074).
  
 **Publications:**
