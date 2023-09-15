@@ -28,6 +28,7 @@ I am currently focusing on the challenges related to the deployment of post-quan
 cryptography in embedded systems. This includes low-memory implementations as well 
 as side-channel countermeasures dedicated to post-quantum cryptography. As an example, 
 I contributed to masking [CRYSTALS-Kyber](https://eprint.iacr.org/2022/158) and [CRYSTALS-Dilithium](https://eprint.iacr.org/2022/1406), and low-memory [FrodoKEM](https://eprint.iacr.org/2023/158).
+I am also part of the [Hawk](https://hawk-sign.info/) team.
 
 ## Side-Channel security evaluations. 
 
