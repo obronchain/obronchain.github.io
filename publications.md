@@ -5,16 +5,12 @@ permalink: /publications/
 ---
 
 
-**Unpublished works:**
-
-1. O. Bronchain, G. Cassiers, F.-X. Standaert, _"Give Me 5 Minutes: Attacking ASCAD with a Single Side-Channel Trace"_, [eprint](https://eprint.iacr.org/2021/817).
- 
 **To Appear:**
-1. M. Azouaoui, O. Bronchain, G. Cassiers, C. Hoffmann, Y. Kuzovkova, J. Renes, M. Schönauer, T. Schneider, F.-X. Standaert, C. van Vredendaal, _"Protecting Dilithium against Leakage: Revisited Sensitivity Analysis and Improved Implementations"_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2022/1406).
-2. M. ElGhamrawy, M. Azouaoui, O. Bronchain, J. Renes, M. Schönauer, T. Schneider, O. Seker, C. van Vredendaal, _"From MLWE to RLWE: A Differential Fault Attack on Randomized & Deterministic Dilithium
-"_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2023/1074).
- 
+1. K. Miteloudi, J. Bos, O. Bronchain, B. Fay and J. Renes, _"Post-Quantum RISC-V Custom ALU Extensions on Dilithium and Kyber"_, to appear in CARDIS 2023.
+
 **Publications:**
+1. M. Azouaoui, O. Bronchain, G. Cassiers, C. Hoffmann, Y. Kuzovkova, J. Renes, M. Schönauer, T. Schneider, F.-X. Standaert, C. van Vredendaal, _"Protecting Dilithium against Leakage: Revisited Sensitivity Analysis and Improved Implementations"_, in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2022/1406), [pdf](https://tches.iacr.org/index.php/TCHES/article/view/11158), [slides](https://iacr.org/submit/files/slides/2023/tches/ches2023/4_20/slides.pptx).
+2. M. ElGhamrawy, M. Azouaoui, O. Bronchain, J. Renes, M. Schönauer, T. Schneider, O. Seker, C. van Vredendaal, _"From MLWE to RLWE: A Differential Fault Attack on Randomized & Deterministic Dilithium"_, in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2023/1074), [pdf](https://tches.iacr.org/index.php/TCHES/article/view/11166), [slides](https://iacr.org/submit/files/slides/2023/tches/ches2023/4_46/slides.pptx).
 1. J. W. Bos, O. Bronchain, F. Custers, J. Renes, D. Verbakel, C. van Vredendall, _"Enabling FrodoKEM on Embedded Devices"_, to appear in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2023/158) [pdf](https://tches.iacr.org/index.php/TCHES/article/view/10957).
 1.  O. Bronchain, G. Cassiers, _" Bitslicing Arithmetic/Boolean Masking Conversions for Fun and Profit with Application to Lattice-Based KEMs"_, in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2022, [eprint](https://eprint.iacr.org/2022/158), [slides](https://iacr.org/submit/files/slides/2022/tches/ches2022/4_60/slides.pdf).
 2.  M. Azouaoui, O. Bronchain, C. Hoffmann, Y. Kuzovkova, T. Schneider, F.-X. Standaert, _"Systematic Study of Decryption and Re-Encryption Leakage: the Case of Kyber"_,  COSADE 2022, [eprint](https://eprint.iacr.org/2022/036), [slides](slides/cosade_2022.pdf).
@@ -38,3 +34,8 @@ permalink: /publications/
 20. C. Momin, O. Bronchain, F.-X. Standaert, _"Time-Modulated Hardware Trojans: Clock-Based and Interface-Based Examples"_, in the proceedings of the 40th WIC Symposium on Information Theory in the Benelux, pp 8, Ghent, Belgim, May 2019, [pdf](https://perso.uclouvain.be/fstandae/PUBLIS/220.pdf).
 21. O. Bronchain, T. Schneider, F.-X. Standaert, _"Multi-Tuple Leakage Detection and the Dependent Signal Issue"_, in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2019, num 2, pp 318-345, [pdf](https://tches.iacr.org/index.php/TCHES/article/view/7394).
 22. O. Bronchain, F.-X. Standaert, S. Faust, L. Dassy, _"Implementing Trojan-Resilient Hardware from (Mostly) Untrusted Components Designed by Colluding Manufacturers"_, in the proceedings of ASHES 2018, pp 1-10, Toronto, Canada, October 2018, [pdf](https://perso.uclouvain.be/fstandae/PUBLIS/208.pdf).
+
+**Technical reports:**
+
+1. O. Bronchain, G. Cassiers, F.-X. Standaert, _"Give Me 5 Minutes: Attacking ASCAD with a Single Side-Channel Trace"_, [eprint](https://eprint.iacr.org/2021/817).
+
