@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 **To Appear:**
-1. K. Miteloudi, J. W. Bos, O. Bronchain, B. Fay and J. Renes, _"Post-Quantum RISC-V Custom ALU Extensions on Dilithium and Kyber"_, to appear in CARDIS 2023.
+1. K. Miteloudi, J. W. Bos, O. Bronchain, B. Fay and J. Renes, _"Post-Quantum RISC-V Custom ALU Extensions on Dilithium and Kyber"_, to appear in CARDIS 2023, [eprint](https://eprint.iacr.org/2023/1505).
 
 **Publications:**
 1. M. Azouaoui, O. Bronchain, G. Cassiers, C. Hoffmann, Y. Kuzovkova, J. Renes, M. Schönauer, T. Schneider, F.-X. Standaert, C. van Vredendaal, _"Protecting Dilithium against Leakage: Revisited Sensitivity Analysis and Improved Implementations"_, in IACR Transactions on Cryptographic Hardware and Embedded Systems, vol 2023, [eprint](https://eprint.iacr.org/2022/1406), [pdf](https://tches.iacr.org/index.php/TCHES/article/view/11158), [slides](https://iacr.org/submit/files/slides/2023/tches/ches2023/4_20/slides.pptx).
