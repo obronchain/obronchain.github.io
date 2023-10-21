@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+**Unpublished Reports:**
+1. O. Bronchain, M. Azouaoui, M. ElGhamrawy, J. Renes, T. Schneider, _"Exploiting Small-Norm Polynomial Multiplication with Physical Attacks: Application to CRYSTALS-Dilithium"_, [eprint](https://eprint.iacr.org/2023/1545).
 
 **To Appear:**
 1. K. Miteloudi, J. W. Bos, O. Bronchain, B. Fay and J. Renes, _"Post-Quantum RISC-V Custom ALU Extensions on Dilithium and Kyber"_, to appear in CARDIS 2023, [eprint](https://eprint.iacr.org/2023/1505).
